@@ -6,7 +6,7 @@ Werkzeug==0.15.5
 numpy>=1.9.2
 scipy>=0.15.1
 nltk>=3.6.4
-scikit-learn>=0.18
+scikit-learn==0.23.1
 pandas>=0.19
 beautifulsoup4==4.9.1
 jsonschema==3.2.0

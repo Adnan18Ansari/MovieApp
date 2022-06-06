@@ -1,23 +1,13 @@
-/* width */
-::-webkit-scrollbar {
-  width: 15px;
+body {
+    background-color: #e1f4f3;
+    text-align: center;
 }
 
-/* Track */
-::-webkit-scrollbar-track {
-  border-radius: 10px;
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #e50914; 
-  border-radius: 10px;
+.navbar {
+    background-color: #333333;
 }
 
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #b30000; 
-}
+
 
 .movie {
 	color: #fff;
@@ -29,7 +19,7 @@
 .movie-content {
 	display: flex;
 	flex-wrap: wrap;
-	justify-content:center;
+	justify-content:space-around;
 }
 
 .movie-content > div {
@@ -54,22 +44,13 @@
 	margin-left: 50px;
 }
 
-.body-content {
-	position: relative;
-  	min-height: 100%;
-}
-
 .footer {
 	color: #e4e0e0;
-	background-color: #e50914d1;
-	text-align:center;
+	text-align:right;
 	position: fixed;
-	bottom: 0;
+ 	bottom: 20px;
+ 	right: 20px;
  	width: 100%;
-}
-
-.social-icons {
-	margin-left: 15px;
 }
 
 h1 {
@@ -80,45 +61,7 @@ h1 {
     text-shadow: #000000 0px 0px 13px;
  }
 
-.github-corner:hover .octo-arm {
-  	animation: octocat-wave 560ms ease-in-out;
-}
 
-.fa-arrow-up {
-	font-size: 1.5em;
-	color: #ffffff;
-    background: #e50914;
-    padding: 10px;
-	border-radius: 50%;
-	float: right;
-    bottom: 25px;
-    position: relative;
-}
-
-.fa-arrow-up:hover {
-	cursor: pointer;
-}
-
-.app-title:hover {
-	cursor: pointer;
-}
-
-@keyframes octocat-wave {
-  0%,
-  100% {
-    transform: rotate(0)
-  }
-
-  20%,
-  60% {
-    transform: rotate(-25deg)
-  }
-
-  40%,
-  80% {
-    transform: rotate(10deg)
-  }
-}
 
 #autoComplete {
   background-position: 98% ;
@@ -172,17 +115,6 @@ h6 {
 	svg[data-toggle=tooltip] {
 		width: 50px;
 		height: 50px;
-	}
-
-	.fa-arrow-up{
-		font-size: 1em;
-		color: #ffffff;
-		background: #e50914;
-		padding: 10px;
-		border-radius: 50%;
-		float: right;
-		bottom: 10px;
-		position: relative;
 	}
 }
 
