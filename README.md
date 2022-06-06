@@ -15,4 +15,6 @@ Don't worry if the movie that you are looking for is not auto-suggested. Just ty
    It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
    
 
+## WebApp Demo
 
+![WebAppImage](https://user-images.githubusercontent.com/55757910/172085677-55846440-0d0d-4cea-b5dc-9e349eb9372d.png)
