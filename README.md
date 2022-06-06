@@ -18,3 +18,6 @@ Don't worry if the movie that you are looking for is not auto-suggested. Just ty
 ## WebApp Demo
 
 ![WebAppImage](https://user-images.githubusercontent.com/55757910/172085677-55846440-0d0d-4cea-b5dc-9e349eb9372d.png)
+![WebAppImage1](https://user-images.githubusercontent.com/55757910/172139729-bccdffae-897b-463c-a575-6d95afa3e582.png)
+![WebAppImage2](https://user-images.githubusercontent.com/55757910/172139829-7e6efc99-1c5f-4472-9b7a-4494bf77e8b6.png)
+
